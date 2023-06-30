@@ -1,2 +1,2 @@
 # Vue-WordPress
-A headless WordPress integration with a Vue.js front-end.
+A headless WordPress integration with a Single Page Vue.js front-end.
