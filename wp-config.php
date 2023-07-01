@@ -79,7 +79,13 @@ $table_prefix = 'wp_';
  *
  * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
+
+define( 'WP_ENVIRONMENT_TYPE', 'local' );
+
+// GENERATED PASSWORD DO NOT FORGET
+// XyAS amzA eXpe GWqA Xcoy 4Q6g
+
 
 /* Add any custom values between this line and the "stop editing" line. */
 
